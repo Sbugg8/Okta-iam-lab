@@ -65,5 +65,7 @@ identity environment including users, groups, roles, and SSO app integration.
 ---
 
 ## 👩‍💻 About
+IAM Engineer | Identity & Access Management | Cloud Security
+Building enterprise-grade identity solutions across Okta and Microsoft Entra ID.
 
-[LinkedIn](#) | [GitHub](https://github.com/Sbugg8)
+[LinkedIn](https://www.linkedin.com/in/shayna-bugg/)
