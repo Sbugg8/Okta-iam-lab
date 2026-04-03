@@ -4,7 +4,7 @@ A hands-on Identity and Access Management lab built on Okta Workforce Identity.
 Documenting real-world IAM concepts including SSO, user lifecycle management,
 group-based access control, and security policy configuration.
 
-> Built as part of a 6-week intensive IAM transition program (April–May 2026)
+> 
 
 ---
 
