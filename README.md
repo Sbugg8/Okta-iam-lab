@@ -46,7 +46,7 @@ identity environment including users, groups, roles, and SSO app integration.
 - Admin role assignment and least privilege
 
 ### Screenshots & Documentation
-*(Adding as lab progresses)*
+![Okta Admin Console](screenshots/admin-dashboard.png)
 
 ---
 
