@@ -65,6 +65,5 @@ identity environment including users, groups, roles, and SSO app integration.
 ---
 
 ## 👩‍💻 About
-Shayna | Aspiring IAM Engineer
-Transitioning into cybersecurity with a focus on Identity and Access Management.
+
 [LinkedIn](#) | [GitHub](https://github.com/Sbugg8)
