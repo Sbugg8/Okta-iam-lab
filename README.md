@@ -47,7 +47,14 @@ identity environment including users, groups, roles, and SSO app integration.
 
 ### Screenshots & Documentation
 ![Okta Admin Console](project-1/screenshots/admin-dashboard.png)
+### 📋 Lab Write-Ups — Define Your Users in Okta
 
+| Lab | Topic | Status |
+|---|---|---|
+| [Lab 01 – Add a Custom Attribute](project-1/screenshots/lab-01/lab-01-custom-attribute.md) | Extending the Okta User Profile Schema | ✅ Complete |
+| [Lab 02 – Create Users in Okta](project-1/screenshots/lab-02/lab-02-create-users.md) | User Provisioning & Lifecycle Events | ✅ Complete |
+| [Lab 03 – Manage User Account Statuses](project-1/screenshots/lab-03/lab-03-user-account-statuses.md) | Password Reset, Lockout, Suspend & Deactivate | ✅ Complete |
+| [Lab 04 – Attribute Mappings](project-1/screenshots/lab-04/lab-04-attribute-mappings.md) | Okta to Workflows Mapping (Sandbox Limitation Documented) | ⚠️ Documented |
 ---
 
 ## 🛠️ Tools & Platforms
@@ -59,7 +66,7 @@ identity environment including users, groups, roles, and SSO app integration.
 ---
 
 ## 📜 Certifications In Progress
-- Okta Certified Professional (target: June 2026)
+- Okta Certified Professional (target: June 2026) 🎯
 - Microsoft AZ-900 ✅ (completed)
 
 ---
