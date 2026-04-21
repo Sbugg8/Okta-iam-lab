@@ -61,7 +61,7 @@ identity environment including users, groups, roles, and SSO app integration.
 | Lab | Topic | Status |
 |---|---|---|
 | [Lab 05 – Manually Assign Users to a Group](project-1/screenshots/organize-users-with-groups/lab-05/lab-05-manual-group-assignment.md) | Group Creation & Role-Based Access Control | ✅ Complete |
-| Lab 06 – Group Rule Based on Group Membership | Automated Group Assignment via Membership Logic | 🔄 In Progress |
+| [Lab 06 – Group Rule Based on Group Membership](project-1/screenshots/organize-users-with-groups/lab-06/lab-06-group-rule-membership.md) | Automated Group Assignment via Membership Logic | ✅ Complete |
 | Lab 07 – Group Rule Based on User Attribute | Attribute-Based Access Control & Data Hygiene Troubleshooting | 🔄 In Progress |
 | Lab 08 – Okta Expression Language in a Group Rule | Compound Rule Logic & User Type Filtering | 🔄 In Progress |
 ## 🛠️ Tools & Platforms
