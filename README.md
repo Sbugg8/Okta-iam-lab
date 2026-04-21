@@ -56,7 +56,14 @@ identity environment including users, groups, roles, and SSO app integration.
 | [Lab 03 – Manage User Account Statuses](project-1/screenshots/lab-03/lab-03-user-account-statuses.md) | Password Reset, Lockout, Suspend & Deactivate | ✅ Complete |
 | [Lab 04 – Attribute Mappings](project-1/screenshots/lab-04/lab-04-attribute-mappings.md) | Okta to Workflows Mapping (Sandbox Limitation Documented) | ⚠️ Documented |
 ---
+### 📋 Lab Write-Ups — Organize Users with Groups
 
+| Lab | Topic | Status |
+|---|---|---|
+| [Lab 05 – Manually Assign Users to a Group](project-1/screenshots/organize-users-with-groups/lab-05/lab-05-manual-group-assignment.md) | Group Creation & Role-Based Access Control | ✅ Complete |
+| Lab 06 – Group Rule Based on Group Membership | Automated Group Assignment via Membership Logic | 🔄 In Progress |
+| Lab 07 – Group Rule Based on User Attribute | Attribute-Based Access Control & Data Hygiene Troubleshooting | 🔄 In Progress |
+| Lab 08 – Okta Expression Language in a Group Rule | Compound Rule Logic & User Type Filtering | 🔄 In Progress |
 ## 🛠️ Tools & Platforms
 - Okta Workforce Identity (Developer Org)
 - Okta Learning — Administration: Onboarding cohort
