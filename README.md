@@ -63,7 +63,7 @@ identity environment including users, groups, roles, and SSO app integration.
 | [Lab 05 – Manually Assign Users to a Group](project-1/screenshots/organize-users-with-groups/lab-05/lab-05-manual-group-assignment.md) | Group Creation & Role-Based Access Control | ✅ Complete |
 | [Lab 06 – Group Rule Based on Group Membership](project-1/screenshots/organize-users-with-groups/lab-06/lab-06-group-rule-membership.md) | Automated Group Assignment via Membership Logic | ✅ Complete |
 | [Lab 07 – Group Rule Based on User Attribute](project-1/screenshots/organize-users-with-groups/lab-07/lab-07-group-rule-user-attribute.md) | Attribute-Based Access Control & Data Hygiene Troubleshooting | ✅ Complete |
-| Lab 08 – Okta Expression Language in a Group Rule | Compound Rule Logic & User Type Filtering | 🔄 In Progress |
+| [Lab 08 – Okta Expression Language in a Group Rule](project-1/screenshots/organize-users-with-groups/lab-08/lab-08-okta-expression-language.md) | Compound Rule Logic & User Type Filtering | ✅ Complete |
 ## 🛠️ Tools & Platforms
 - Okta Workforce Identity (Developer Org)
 - Okta Learning — Administration: Onboarding cohort
