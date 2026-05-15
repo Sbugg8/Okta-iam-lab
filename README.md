@@ -64,6 +64,54 @@ identity environment including users, groups, roles, and SSO app integration.
 | [Lab 06 – Group Rule Based on Group Membership](project-1/screenshots/organize-users-with-groups/lab-06/lab-06-group-rule-membership.md) | Automated Group Assignment via Membership Logic | ✅ Complete |
 | [Lab 07 – Group Rule Based on User Attribute](project-1/screenshots/organize-users-with-groups/lab-07/lab-07-group-rule-user-attribute.md) | Attribute-Based Access Control & Data Hygiene Troubleshooting | ✅ Complete |
 | [Lab 08 – Okta Expression Language in a Group Rule](project-1/screenshots/organize-users-with-groups/lab-08/lab-08-okta-expression-language.md) | Compound Rule Logic & User Type Filtering | ✅ Complete |
+
+---
+## 🧪 Project 2 — Implement Security Policies
+
+### Objective
+
+Configure and harden an Okta org's security posture by building layered policies 
+across authentication, MFA enrollment, sessions, password rules, devices, 
+and network zones — mirroring real-world enterprise access control.
+
+### Skills Demonstrated
+
+- Authentication policy design and rule ordering
+- MFA enrollment policy configuration
+- Global session policy tuning (lifetime, idle timeout, cookie persistence)
+- Password policy with self-service reset
+- Device registration lifecycle management
+- Network zone-based conditional access
+- Real-world troubleshooting of cross-policy conflicts
+
+### 📋 Lab Write-Ups — Implement Security Policies
+
+| Lab | Topic | Status |
+| --- | --- | --- |
+| Lab 01 – [TITLE FROM PDF] | [TOPIC] | ✅ Complete |
+| Lab 02 – [TITLE FROM PDF] | [TOPIC] | ✅ Complete |
+| Lab 03 – [TITLE FROM PDF] | [TOPIC] | ✅ Complete |
+| Lab 04 – [TITLE FROM PDF] | [TOPIC] | ✅ Complete |
+| Lab 05 – [TITLE FROM PDF] | [TOPIC] | ✅ Complete |
+| Lab 06 – Manage Registered Devices | Device Lifecycle & Cross-Policy Troubleshooting | ✅ Complete |
+| Lab 07 – Add a Rule to Default Global Session Policy | Session Lifetime, Idle Timeout & Cookie Persistence | ✅ Complete |
+| Lab 08 – [TITLE FROM PDF] | Network Zone-Based Authentication Policy Rules | ✅ Complete |
+| Lab 09 – [TITLE FROM PDF] | Password Policy Configuration | ✅ Complete |
+
+### 📊 Module Assessment
+
+- **Score:** 86.67% (April 24, 2026)
+- **Sections:** Authentication Policies 100% · MFA Enrollment 100% · Global Session Policies 75% · Password Policies with SSR 67%
+- **Credly Badge:** Earned
+
+---
+
+## 🧪 Project 3 — Lifecycle Automation & Monitoring
+
+*Coming next: Okta Workflows automation, system log monitoring, 
+and end-to-end user lifecycle orchestration.*
+
+⏳ **Status:** Upcoming
 ## 🛠️ Tools & Platforms
 - Okta Workforce Identity (Developer Org)
 - Okta Learning — Administration: Onboarding cohort
