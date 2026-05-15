@@ -66,37 +66,46 @@ identity environment including users, groups, roles, and SSO app integration.
 | [Lab 08 – Okta Expression Language in a Group Rule](project-1/screenshots/organize-users-with-groups/lab-08/lab-08-okta-expression-language.md) | Compound Rule Logic & User Type Filtering | ✅ Complete |
 
 ---
+---
+
 ## 🧪 Project 2 — Implement Security Policies
 
 ### Objective
 
 Configure and harden an Okta org's security posture by building layered policies 
-across authentication, MFA enrollment, sessions, password rules, devices, 
-and network zones — mirroring real-world enterprise access control.
+across network zones, authenticators, MFA enrollment, devices, sessions, 
+authentication, and passwords — mirroring real-world enterprise access control.
 
 ### Skills Demonstrated
 
-- Authentication policy design and rule ordering
-- MFA enrollment policy configuration
-- Global session policy tuning (lifetime, idle timeout, cookie persistence)
-- Password policy with self-service reset
+- IP and dynamic (geo) network zone configuration
+- Authenticator setup and user-verification enforcement
+- Phased rollout enrollment policies with allow/deny rules
 - Device registration lifecycle management
-- Network zone-based conditional access
-- Real-world troubleshooting of cross-policy conflicts
+- Global session policy tuning (lifetime, idle, persistence)
+- Authentication policy design with priority-based rule evaluation
+- Password policy with self-service recovery rules
+- System log analysis and policy evaluation troubleshooting
 
 ### 📋 Lab Write-Ups — Implement Security Policies
 
 | Lab | Topic | Status |
 | --- | --- | --- |
-| Lab 01 – [TITLE FROM PDF] | [TOPIC] | ✅ Complete |
-| Lab 02 – [TITLE FROM PDF] | [TOPIC] | ✅ Complete |
-| Lab 03 – [TITLE FROM PDF] | [TOPIC] | ✅ Complete |
-| Lab 04 – [TITLE FROM PDF] | [TOPIC] | ✅ Complete |
-| Lab 05 – [TITLE FROM PDF] | [TOPIC] | ✅ Complete |
+| Lab 01 – Add an IP Network Zone | Corporate Network Zone via Gateway IPs | ✅ Complete |
+| Lab 02 – Add a Dynamic Network Zone | Geo-Based "Allowed Countries" Zone | ✅ Complete |
+| Lab 03 – Add Google Authenticator | Optional Authenticator & Default Enrollment Policy | ✅ Complete |
+| Lab 04 – Enforce User Verification for Okta Verify | Device Passcode / Biometric Requirement | ✅ Complete |
+| Lab 05 – Add an Enrollment Policy for Okta Verify | Phased Rollout with Allow/Deny Rules | ✅ Complete |
 | Lab 06 – Manage Registered Devices | Device Lifecycle & Cross-Policy Troubleshooting | ✅ Complete |
 | Lab 07 – Add a Rule to Default Global Session Policy | Session Lifetime, Idle Timeout & Cookie Persistence | ✅ Complete |
-| Lab 08 – [TITLE FROM PDF] | Network Zone-Based Authentication Policy Rules | ✅ Complete |
-| Lab 09 – [TITLE FROM PDF] | Password Policy Configuration | ✅ Complete |
+| Lab 08 – Network-Zone-Based Auth Policy Rules | Restricted / Public / Corporate Network Rules | ✅ Complete |
+| Lab 09 – Set Up a Password Policy | Strong Passwords + Self-Service Recovery by Zone | ✅ Complete |
+
+### 📊 Module Assessment
+
+- **Score:** 86.67% (April 24, 2026)
+- **Sections:** Authentication Policies 100% · MFA Enrollment 100% · Global Session Policies 75% · Password Policies with SSR 67%
+- **Credly Badge:** Earned
 
 ### 📊 Module Assessment
 
