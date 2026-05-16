@@ -27,7 +27,7 @@ group-based access control, and security policy configuration.
 | Project | Focus | Status |
 |---------|-------|--------|
 | Project 1 | SSO & Identity Setup | ✅ Complete |
-| Project 2 | Security Policies & MFA | ⏳ Upcoming |
+| Project 2 | Security Policies & MFA | ✅ Complete |
 | Project 3 | Lifecycle Automation & Monitoring | ⏳ Upcoming |
 
 ---
