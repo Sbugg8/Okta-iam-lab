@@ -66,7 +66,6 @@ identity environment including users, groups, roles, and SSO app integration.
 | [Lab 08 – Okta Expression Language in a Group Rule](project-1/screenshots/organize-users-with-groups/lab-08/lab-08-okta-expression-language.md) | Compound Rule Logic & User Type Filtering | ✅ Complete |
 
 ---
----
 
 ## 🧪 Project 2 — Implement Security Policies
 
