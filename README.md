@@ -91,15 +91,15 @@ authentication, and passwords — mirroring real-world enterprise access control
 
 | Lab | Topic | Status |
 | --- | --- | --- |
-| Lab 01 – Add an IP Network Zone | Corporate Network Zone via Gateway IPs | ✅ Complete |
-| Lab 02 – Add a Dynamic Network Zone | Geo-Based "Allowed Countries" Zone | ✅ Complete |
-| Lab 03 – Add Google Authenticator | Optional Authenticator & Default Enrollment Policy | ✅ Complete |
-| Lab 04 – Enforce User Verification for Okta Verify | Device Passcode / Biometric Requirement | ✅ Complete |
-| Lab 05 – Add an Enrollment Policy for Okta Verify | Phased Rollout with Allow/Deny Rules | ✅ Complete |
-| Lab 06 – Manage Registered Devices | Device Lifecycle & Cross-Policy Troubleshooting | ✅ Complete |
-| Lab 07 – Add a Rule to Default Global Session Policy | Session Lifetime, Idle Timeout & Cookie Persistence | ✅ Complete |
-| Lab 08 – Network-Zone-Based Auth Policy Rules | Restricted / Public / Corporate Network Rules | ✅ Complete |
-| Lab 09 – Set Up a Password Policy | Strong Passwords + Self-Service Recovery by Zone | ✅ Complete |
+| [Lab 01 – Add an IP Network Zone](./project-2/screenshots/implement-security-policies/lab-01/lab-01-ip-zone-corporate-network.md) | Corporate Network Zone via Gateway IPs | ✅ Complete |
+| [Lab 02 – Add a Dynamic Network Zone](./project-2/screenshots/implement-security-policies/lab-02/lab-02-dynamic-zone-allowed-countries.md) | Geo-Based "Allowed Countries" Zone | ✅ Complete |
+| [Lab 03 – Add Google Authenticator](./project-2/screenshots/implement-security-policies/lab-03/lab-03-add-google-authenticator.md) | Optional Authenticator & Default Enrollment Policy | ✅ Complete |
+| [Lab 04 – Enforce User Verification for Okta Verify](./project-2/screenshots/implement-security-policies/lab-04/lab-04-enforce-user-verification-okta-verify.md) | Device Passcode / Biometric Requirement | ✅ Complete |
+| [Lab 05 – Add an Enrollment Policy for Okta Verify](./project-2/screenshots/implement-security-policies/lab-05/lab-05-enrollment-policy-okta-verify.md) | Phased Rollout with Allow/Deny Rules | ✅ Complete |
+| [Lab 06 – Manage Registered Devices](./project-2/screenshots/implement-security-policies/lab-06/lab-06-manage-registered-devices.md) | Device Lifecycle & Cross-Policy Troubleshooting | ✅ Complete |
+| [Lab 07 – Add a Rule to Default Global Session Policy](./project-2/screenshots/implement-security-policies/lab-07/lab-07-default-global-session-policy-rule.md) | Session Lifetime, Idle Timeout & Cookie Persistence | ✅ Complete |
+| [Lab 08 – Network-Zone-Based Auth Policy Rules](./project-2/screenshots/implement-security-policies/lab-08/lab-08-network-zone-auth-policy-rules.md) | Restricted / Public / Corporate Network Rules | ✅ Complete |
+| [Lab 09 – Set Up a Password Policy](./project-2/screenshots/implement-security-policies/lab-09/lab-09-password-policy.md) | Strong Passwords + Self-Service Recovery by Zone | ✅ Complete |
 
 ### 📊 Module Assessment
 
