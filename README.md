@@ -129,8 +129,8 @@ and end-to-end user lifecycle orchestration.*
 ---
 
 ## 📜 Certifications In Progress
-- Okta Certified Professional (target: June 2026) 🎯
-- Microsoft AZ-900 ✅ (completed)
+- Okta Certified Professional ✅  
+- Microsoft AZ-900 ✅ 
 
 ---
 
