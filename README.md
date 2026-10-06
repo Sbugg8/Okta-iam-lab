@@ -130,7 +130,8 @@ and end-to-end user lifecycle orchestration.*
 
 ## 📜 Certifications In Progress
 - Okta Certified Professional ✅  
-- Microsoft AZ-900 ✅ 
+- Microsoft AZ-900 ✅
+- Security + ✅
 
 ---
 
